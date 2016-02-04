@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SettingHomeWifi", "SettingHomeWifi\SettingHomeWifi.csproj", "{B478E3DA-8702-4BFF-97E7-84A67FFDE2D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetshWiFi", "NetshWiFI\NetshWiFi.csproj", "{48B5A4A1-8E49-45FB-8CAD-4817A7DE518B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B478E3DA-8702-4BFF-97E7-84A67FFDE2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B478E3DA-8702-4BFF-97E7-84A67FFDE2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B478E3DA-8702-4BFF-97E7-84A67FFDE2D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48B5A4A1-8E49-45FB-8CAD-4817A7DE518B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B5A4A1-8E49-45FB-8CAD-4817A7DE518B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B5A4A1-8E49-45FB-8CAD-4817A7DE518B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B5A4A1-8E49-45FB-8CAD-4817A7DE518B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

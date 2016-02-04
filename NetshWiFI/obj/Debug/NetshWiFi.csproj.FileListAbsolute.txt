@@ -1,0 +1,13 @@
+C:\Users\Влад\documents\visual studio 2013\Projects\SettingHomeWifi\NetshWiFI\bin\Debug\NetshWiFI.exe.config
+C:\Users\Влад\documents\visual studio 2013\Projects\SettingHomeWifi\NetshWiFI\bin\Debug\NetshWiFI.exe
+C:\Users\Влад\documents\visual studio 2013\Projects\SettingHomeWifi\NetshWiFI\bin\Debug\NetshWiFI.pdb
+C:\Users\Влад\documents\visual studio 2013\Projects\SettingHomeWifi\NetshWiFI\obj\Debug\NetshWiFI.csprojResolveAssemblyReference.cache
+C:\Users\Влад\documents\visual studio 2013\Projects\SettingHomeWifi\NetshWiFI\obj\Debug\NetshWiFI.Form1.resources
+C:\Users\Влад\documents\visual studio 2013\Projects\SettingHomeWifi\NetshWiFI\obj\Debug\NetshWiFI.Properties.Resources.resources
+C:\Users\Влад\documents\visual studio 2013\Projects\SettingHomeWifi\NetshWiFI\obj\Debug\NetshWiFI.csproj.GenerateResource.Cache
+C:\Users\Влад\documents\visual studio 2013\Projects\SettingHomeWifi\NetshWiFI\obj\Debug\NetshWiFI.exe
+C:\Users\Влад\documents\visual studio 2013\Projects\SettingHomeWifi\NetshWiFI\obj\Debug\NetshWiFI.pdb
+C:\Users\Влад\documents\visual studio 2013\Projects\SettingHomeWifi\NetshWiFI\obj\Debug\NetshWiFI.Form2.resources
+C:\Users\Влад\documents\visual studio 2013\Projects\SettingHomeWifi\NetshWiFI\bin\Debug\SettingHomeWifi.dll
+C:\Users\Влад\documents\visual studio 2013\Projects\SettingHomeWifi\NetshWiFI\bin\Debug\SettingHomeWifi.pdb
+C:\Users\Влад\documents\visual studio 2013\Projects\SettingHomeWifi\NetshWiFI\obj\Debug\NetshWiFI.Loser.resources

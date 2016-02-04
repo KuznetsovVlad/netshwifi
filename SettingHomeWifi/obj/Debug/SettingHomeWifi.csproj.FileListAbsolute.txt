@@ -1,1 +1,4 @@
-C:\Users\Влад\documents\visual studio 2013\Projects\SettingHomeWifi\SettingHomeWifi\obj\Debug\SettingHomeWifi.csprojResolveAssemblyReference.cache
+C:\Users\Влад\documents\visual studio 2013\Projects\SettingHomeWifi\SettingHomeWifi\bin\Debug\SettingHomeWifi.dll
+C:\Users\Влад\documents\visual studio 2013\Projects\SettingHomeWifi\SettingHomeWifi\bin\Debug\SettingHomeWifi.pdb
+C:\Users\Влад\documents\visual studio 2013\Projects\SettingHomeWifi\SettingHomeWifi\obj\Debug\SettingHomeWifi.dll
+C:\Users\Влад\documents\visual studio 2013\Projects\SettingHomeWifi\SettingHomeWifi\obj\Debug\SettingHomeWifi.pdb
